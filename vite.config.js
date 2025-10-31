@@ -9,4 +9,12 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
     },
   },
+  build: {
+    outDir: "dist",              
+    chunkSizeWarningLimit: 1600, 
+    sourcemap: false,            
+  },
+  server: {
+    open: true,                  
+  },
 });

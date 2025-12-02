@@ -33,7 +33,9 @@ This project replicates the **landing page, login page, and movie browsing exper
 (Insert your image here)
 
 ```
-![Home Page](/public/Screenshots/home.png)
+## Test
+![Test](public/Screenshots/home.png)
+
 
 ```
 

@@ -33,7 +33,7 @@ This project replicates the **landing page, login page, and movie browsing exper
 (Insert your image here)
 
 ```
-/public/screenshots/home.png
+/public/Screenshots/home.png
 ```
 
 ### 🔐 Login Page
@@ -41,7 +41,7 @@ This project replicates the **landing page, login page, and movie browsing exper
 (Insert your image here)
 
 ```
-/public/screenshots/login.png
+/public/Screenshots/login.png
 ```
 
 ---
